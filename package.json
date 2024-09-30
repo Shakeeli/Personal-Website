@@ -1,0 +1,14 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal Website Project",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "live-server": "^1.2.2"
+  },
+  "author": "Iqra Shakeel",
+  "license": "MIT"
+}
